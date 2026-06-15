@@ -10,7 +10,7 @@
 <img align="right" alt="hacking-laptop" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXF0bGRsbzV4MXYwOWgyYXlndHZvNnltazY1bGxqeGV6em5la2hhNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/115BJle6N2Av0A/giphy.gif">
 
 <p align="left"> 
-  <a href="www.linkedin.com/in/misdaq-hussain-kausari-a8b7223ba" target="_blank">
+  <a href="www.linkedin.com/in/misdaq-hussain-kausari-a8b7223ba/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-00FF00?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn Profile" />
   </a> 
 </p>
