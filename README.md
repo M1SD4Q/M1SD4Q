@@ -23,15 +23,27 @@
 
 - 📫 How to reach me: **misdaqhussain.official@gmail.com**
 
+
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-  <a href="www.linkedin.com/in/misdaq-hussain-kausari-a8b7223ba" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/misdaq-hussain-kausari-a8b7223ba/" target="_blank" rel="noopener noreferrer">
+    <img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="LinkedIn"
+      height="30"
+      width="40" />
   </a>
-  <a href="https://github.com/M1SD4Q" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+
+  <a href="https://github.com/M1SD4Q" target="_blank" rel="noopener noreferrer">
+    <img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
+      alt="GitHub"
+      height="30"
+      width="40" />
   </a>
 </p>
+
 
 <h3 align="left">Arsenal & Tools:</h3>
 <p align="left"> 
