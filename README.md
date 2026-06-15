@@ -7,7 +7,7 @@
   <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=2000&color=00FF00&center=true&vCenter=true&width=440&lines=Welcome+to+My+GitHub+Profile!+%F0%9F%91%8B;System.out.println(%22Hacked!%22);Root+Access+Granted...+" alt="Welcome to My GitHub Profile!" />
 </p>
 
-<img align="right" alt="hacking-laptop" width="400" src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif">
+<img align="right" alt="hacking-laptop" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXF0bGRsbzV4MXYwOWgyYXlndHZvNnltazY1bGxqeGV6em5la2hhNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/115BJle6N2Av0A/giphy.gif">
 
 <p align="left"> 
   <a href="www.linkedin.com/in/misdaq-hussain-kausari-a8b7223ba" target="_blank">
